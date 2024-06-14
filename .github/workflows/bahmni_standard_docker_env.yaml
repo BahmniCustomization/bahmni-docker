@@ -1,4 +1,4 @@
- name: Deploy to Bahmni Standard Docker Env
+name: Deploy to Bahmni Standard Docker Env
 on:
   push:
     branches:
